@@ -7,16 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43b98e9c-f1ee-4b90-aa99-018c4a4cb336" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JsonDoclet.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/builds/json-jdoc.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/raidandfade/JsonDoclet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/raidandfade/JsonDoclet/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +62,7 @@
     <option name="width" value="1440" />
     <option name="height" value="832" />
   </component>
+  <component name="ProjectId" id="1owBqIMwSI7G5MgSJC6vLfcfovN" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -98,23 +93,25 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -127,53 +124,49 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+    <configuration default="true" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/builds/json-jdoc.jar" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8 (1)" />
       <module name="javadoc-json-doclet" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
@@ -181,6 +174,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -191,6 +185,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555138358073</updated>
+      <workItem from="1614187965217" duration="1368000" />
     </task>
     <servers />
   </component>
@@ -226,8 +221,19 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/JsonDoclet.iml">

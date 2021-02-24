@@ -38,6 +38,7 @@ public class Main {
         HashMap<String,Object> props = new HashMap<>();
         props.put("typeName",c.typeName());
         props.put("name",c.name());
+        props.put("docString", c.commentText());
         props.put("modifiers",c.modifiers());
         props.put("qualifiedName",c.qualifiedName());
         Object superclass = null;
